@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1554153332 source:c:\users\diego\desktop\ejercicio 1\funciones.c
+	"Funciones.h"
+
+1554153666 c:\users\diego\desktop\ejercicio 1\funciones.h
+
+1554153738 source:c:\users\diego\desktop\ejercicio 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1554150094 c:\users\diego\desktop\ejercicio 1\funciones.c
+	"Funciones.h"
+
+1554156317 source:c:\users\diego\desktop\ejercicio vectores\funciones.c
+	"Funciones.h"
+
+1554153666 c:\users\diego\desktop\ejercicio vectores\funciones.h
+
+1554154130 source:c:\users\diego\desktop\ejercicio vectores\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
